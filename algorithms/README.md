@@ -1,1 +1,1 @@
-Algorithms implementations and problem-solving exercises.
+Selected algorithm problems and concept summaries are provided as a PDF.
