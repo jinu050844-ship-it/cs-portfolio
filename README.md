@@ -1,2 +1,2 @@
 # cs-portfolio
-Coursework-based implementations in data structures, algorithms, systems programming, and Python.
+Selected implementations and analyses across core computer science topics.
